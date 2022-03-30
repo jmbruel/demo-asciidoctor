@@ -31,14 +31,3 @@ jobs:
         # slides_build: true
         # pre_build:
         # post_build:
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-jobs:
-  asciidoctor-ghpages:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: manoelcampos/asciidoctor-ghpages-action@v2
