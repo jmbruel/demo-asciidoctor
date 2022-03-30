@@ -15,11 +15,11 @@ ifdef::env-github[]
 :graduation-icon: :mortar_board:
 endif::[]
 
-ifdef:env-github[]
+ifdef::env-github[]
 NOTE: This is the GitHub version of the site. For the automatically generated HTML version, check {siteURLio}.
 endif::[]
 
-ifndef:env-github[]
+ifndef::env-github[]
 NOTE: This is the automatically generated HTML version of the site. For the GitHub version, check {siteURL}.
 endif::[]
 
