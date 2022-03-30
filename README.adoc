@@ -16,6 +16,7 @@ ifdef::env-github[]
 endif::[]
 
 ifdef::env-github[]
+image::https://github.com/jmbruel/demo-asciidoctor/actions/workflows/action.yml/badge.svg?branch=master[asciidoctor-ghpages, link="https://github.com/jmbruel/demo-asciidoctor/actions/workflows/action.yml"]
 NOTE: This is the GitHub version of the site. For the automatically generated HTML version, check {siteURLio}.
 endif::[]
 
