@@ -2,7 +2,7 @@
 Jean-Michel Bruel <jbruel@gmail.com>
 v22.1, {localdate} (started on 2022-03-30)
 :icons: font
-:siteURL: https://github.com/jmbruel/demo-asciidoctor.git
+:siteURL: https://github.com/jmbruel/demo-asciidoctor
 :siteURLio: https://jmbruel.github.io/demo-asciidoctor
 
 // Specific to GitHub
@@ -21,6 +21,6 @@ NOTE: This is the GitHub version of the site. For the automatically generated HT
 endif::[]
 
 ifndef::env-github[]
-NOTE: This is the automatically generated HTML version of the site. For the GitHub version, check {siteURL}. The link:{siteURL}blob/gh-pages/ebook.pdf{ebook} version has also been generated.
+NOTE: This is the automatically generated HTML version of the site. For the GitHub version, check {siteURL}. The link:{siteURL}/blob/gh-pages/ebook.pdf{ebook} version has also been generated.
 endif::[]
 
