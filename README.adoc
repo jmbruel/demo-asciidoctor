@@ -21,6 +21,6 @@ NOTE: This is the GitHub version of the site. For the automatically generated HT
 endif::[]
 
 ifndef::env-github[]
-NOTE: This is the automatically generated HTML version of the site. For the GitHub version, check {siteURL}. The link:{siteURL}/blob/gh-pages/ebook.pdf{ebook} version has also been generated.
+NOTE: This is the automatically generated HTML version of the site. For the GitHub version, check {siteURL}. The link:{siteURL}/blob/gh-pages/ebook.pdf[ebook] version has also been generated.
 endif::[]
 
